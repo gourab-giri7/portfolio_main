@@ -1,0 +1,18 @@
+{
+  "name": "gourab-giri-portfolio",
+  "version": "1.0.0",
+  "description": "Premium, modern, dark-themed personal portfolio website for Gourab Giri, Flutter Developer.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -o",
+    "start": "npx http-server -p 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "flutter",
+    "developer",
+    "gourab-giri"
+  ],
+  "author": "Gourab Giri",
+  "license": "ISC"
+}
